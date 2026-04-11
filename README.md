@@ -1,10 +1,23 @@
 <h1 align="center">Hi 👋, I'm Mehedi Hasan</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
+<p align="center"> <img src="https://i.ibb.co.com/fVHrKf6F/Mehedi-linked-banner.jpg" alt="mehedi-hasan2006" /> </p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehedi-hasan2006&label=Profile%20views&color=0e75b6&style=flat" alt="mehedi-hasan2006" /> </p>
 
 # 💫 About Me:
-🌱 I’m currently learning **react, node.js, express.js, MongoDB**<br><br>📫 How to reach me **meh
+🌱 I’m currently learning **react, node.js, express.js, MongoDB**<br><br>📫 How to reach mehedihasan811914@gmail.com
+
+---
+
+# Current Activity:
+ I am exploring 
+ - REACT.JS
+ - NEXT.JS
+ - MongoDB
+ - 
+ I’m working on
+  - Student Management website.
 
 
 ## 🌐 Socials:
