@@ -15,10 +15,11 @@
  - REACT.JS
  - NEXT.JS
  - MongoDB
- - 
+   
  I’m working on
   - Student Management website.
 
+---
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/mehedi.hasan2006) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mdmehedi.hasan2006) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mdmehedi.hasan2006) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mehedihasan811914@gmail.com) 
