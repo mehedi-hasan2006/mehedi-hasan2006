@@ -8,10 +8,10 @@
 # 👨‍💻 About Me: 
 Hi, I'm Mehedi Hasan, a passionate MERN Stack Developer from Bangladesh. I enjoy building modern, responsive, and user-friendly web applications using the MERN stack. I love turning ideas into real-world projects while continuously learning new technologies and improving my development skills.
 
-🌱 Currently exploring Next.js and advanced web development.
-💼 Building full-stack web applications with MongoDB, Express.js, React, and Node.js.
-🚀 Interested in writing clean, scalable, and maintainable code.
-🎯 Goal: To grow as a professional Full Stack Developer and contribute to impactful software projects.
+- 🌱 Currently exploring Next.js and advanced web development.
+- 💼 Building full-stack web applications with MongoDB, Express.js, React, and Node.js.
+- 🚀 Interested in writing clean, scalable, and maintainable code.
+- 🎯 Goal: To grow as a professional Full Stack Developer and contribute to impactful software projects.
 
 
 ---
